@@ -134,11 +134,15 @@ h2{
 }
 
 .section p{
-  padding: 4px 32px 24px 32px;
+  padding: 4px;
 }
 
 .section{
   margin-bottom: 64px;
+}
+
+.description{
+  padding: 4px 4px 4px 32px !important;
 }
 
 /* --------------------------------
@@ -160,222 +164,220 @@ icons
   font icons
 -------------------------*/
 
+
 .icon-GIF::before {
-  content: "\ea01";
+    content: "\ea01";
 }
 
 .icon-ar::before {
-  content: "\ea02";
+    content: "\ea02";
 }
 
 .icon-back::before {
-  content: "\ea03";
+    content: "\ea03";
 }
 
 .icon-calendar::before {
-  content: "\ea04";
+    content: "\ea05";
 }
 
 .icon-camera::before {
-  content: "\ea05";
+    content: "\ea04";
 }
 
 .icon-card::before {
-  content: "\ea06";
+    content: "\ea06";
 }
 
 .icon-center-align::before {
-  content: "\ea0a";
+    content: "\ea07";
 }
 
 .icon-challenge::before {
-  content: "\ea09";
+    content: "\ea09";
 }
 
 .icon-close::before {
-  content: "\ea07";
+    content: "\ea08";
 }
 
 .icon-colour::before {
-  content: "\ea08";
+    content: "\ea0b";
 }
 
 .icon-delete::before {
-  content: "\ea0b";
+    content: "\ea0a";
 }
 
 .icon-edit::before {
-  content: "\ea0c";
+    content: "\ea0c";
 }
 
 .icon-font::before {
-  content: "\ea0d";
+    content: "\ea0d";
 }
 
 .icon-format::before {
-  content: "\ea0e";
+    content: "\ea0e";
 }
 
 .icon-game::before {
-  content: "\ea0f";
+    content: "\ea0f";
 }
 
 .icon-game2::before {
-  content: "\ea10";
+    content: "\ea10";
 }
 
 .icon-gift::before {
-  content: "\ea11";
+    content: "\ea11";
 }
 
 .icon-history::before {
-  content: "\ea12";
-}
-
-.icon-reorder::before {
-  content: "\ea13";
+    content: "\ea12";
 }
 
 .icon-image::before {
-  content: "\ea14";
+    content: "\ea13";
 }
 
 .icon-left-align::before {
-  content: "\ea15";
+    content: "\ea14";
 }
 
 .icon-left::before {
-  content: "\ea16";
+    content: "\ea15";
 }
 
 .icon-leftSmall::before {
-  content: "\ea17";
+    content: "\ea16";
 }
 
 .icon-library::before {
-  content: "\ea18";
+    content: "\ea17";
 }
 
 .icon-like-full::before {
-  content: "\ea19";
+    content: "\ea18";
 }
 
 .icon-like::before {
-  content: "\ea1a";
+    content: "\ea19";
 }
 
 .icon-location::before {
-  content: "\ea1b";
+    content: "\ea1a";
 }
 
 .icon-lock::before {
-  content: "\ea1d";
+    content: "\ea1b";
 }
 
 .icon-menu::before {
-  content: "\ea1c";
+    content: "\ea1c";
 }
 
 .icon-mute::before {
-  content: "\ea1e";
-}
-
-.icon-note-2::before {
-  content: "\ea1f";
-}
-
-.icon-note2::before {
-  content: "\ea20";
+    content: "\ea1d";
 }
 
 .icon-note::before {
-  content: "\ea21";
+    content: "\ea1e";
 }
 
+
 .icon-ok::before {
-  content: "\ea22";
+    content: "\ea21";
 }
 
 .icon-open::before {
-  content: "\ea23";
+    content: "\ea22";
 }
 
 .icon-preview::before {
-  content: "\ea24";
+    content: "\ea23";
 }
 
 .icon-receipt::before {
-  content: "\ea25";
+    content: "\ea24";
 }
 
 .icon-received::before {
-  content: "\ea26";
+    content: "\ea25";
 }
 
 .icon-refresh::before {
-  content: "\ea27";
+    content: "\ea26";
+}
+
+.icon-reorder::before {
+    content: "\ea27";
 }
 
 .icon-replay::before {
-  content: "\ea28";
+    content: "\ea28";
 }
 
 .icon-right-align::before {
-  content: "\ea29";
+    content: "\ea29";
 }
 
 .icon-right::before {
-  content: "\ea2a";
+    content: "\ea2a";
 }
 
 .icon-rightSmall::before {
-  content: "\ea2b";
+    content: "\ea2b";
 }
 
 .icon-rotate-camera::before {
-  content: "\ea2c";
+    content: "\ea2c";
 }
 
 .icon-search::before {
-  content: "\ea2d";
+    content: "\ea2e";
 }
 
 .icon-sent::before {
-  content: "\ea2e";
+    content: "\ea2d";
 }
 
 .icon-sent2::before {
-  content: "\ea2f";
+    content: "\ea2f";
 }
 
 .icon-settings::before {
-  content: "\ea30";
+    content: "\ea30";
 }
 
 .icon-share::before {
-  content: "\ea31";
+    content: "\ea31";
 }
 
 .icon-slide-show::before {
-  content: "\ea32";
+    content: "\ea32";
+}
+
+.icon-title::before {
+    content: "\ea33";
 }
 
 .icon-upload::before {
-  content: "\ea33";
+    content: "\ea34";
 }
 
 .icon-video-replay::before {
-  content: "\ea34";
+    content: "\ea35";
 }
 
 .icon-video::before {
-  content: "\ea35";
+    content: "\ea36";
 }
 
 .icon-volumn::before {
-  content: "\ea36";
+    content: "\ea37";
 }
 
 .icon-youtube::before {
-  content: "\ea37";
+    content: "\ea38";
 }
