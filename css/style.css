@@ -351,22 +351,26 @@ Generated using nucleoapp.com
   content: "\ea33";
 }
 
+.icon-undo::before {
+  content: "\ea35";
+}
+
 .icon-upload::before {
   content: "\ea34";
 }
 
 .icon-video-replay::before {
-  content: "\ea35";
-}
-
-.icon-video::before {
   content: "\ea36";
 }
 
-.icon-volumn::before {
+.icon-video::before {
   content: "\ea37";
 }
 
-.icon-youtube::before {
+.icon-volumn::before {
   content: "\ea38";
+}
+
+.icon-youtube::before {
+  content: "\ea39";
 }

@@ -361,23 +361,26 @@ icons
 .icon-title::before {
     content: "\ea33";
 }
+.icon-undo::before {
+  content: "\ea35";
+}
 
 .icon-upload::before {
-    content: "\ea34";
+  content: "\ea34";
 }
 
 .icon-video-replay::before {
-    content: "\ea35";
+  content: "\ea36";
 }
 
 .icon-video::before {
-    content: "\ea36";
+  content: "\ea37";
 }
 
 .icon-volumn::before {
-    content: "\ea37";
+  content: "\ea38";
 }
 
 .icon-youtube::before {
-    content: "\ea38";
+  content: "\ea39";
 }

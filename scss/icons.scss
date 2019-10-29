@@ -8,14 +8,14 @@
 $icon-GIF: unicode(ea01);
 $icon-ar: unicode(ea02);
 $icon-back: unicode(ea03);
-$icon-calendar: unicode(ea05);
-$icon-camera: unicode(ea04);
+$icon-calendar: unicode(ea04);
+$icon-camera: unicode(ea05);
 $icon-card: unicode(ea06);
-$icon-center-align: unicode(ea07);
-$icon-challenge: unicode(ea09);
-$icon-close: unicode(ea08);
-$icon-colour: unicode(ea0b);
-$icon-delete: unicode(ea0a);
+$icon-center-align: unicode(ea08);
+$icon-challenge: unicode(ea07);
+$icon-close: unicode(ea09);
+$icon-colour: unicode(ea0a);
+$icon-delete: unicode(ea0b);
 $icon-edit: unicode(ea0c);
 $icon-font: unicode(ea0d);
 $icon-format: unicode(ea0e);
@@ -35,6 +35,8 @@ $icon-lock: unicode(ea1b);
 $icon-menu: unicode(ea1c);
 $icon-mute: unicode(ea1d);
 $icon-note: unicode(ea1e);
+$icon-note1: unicode(ea1f);
+$icon-note2: unicode(ea20);
 $icon-ok: unicode(ea21);
 $icon-open: unicode(ea22);
 $icon-preview: unicode(ea23);
@@ -47,18 +49,19 @@ $icon-right-align: unicode(ea29);
 $icon-right: unicode(ea2a);
 $icon-rightSmall: unicode(ea2b);
 $icon-rotate-camera: unicode(ea2c);
-$icon-search: unicode(ea2e);
-$icon-sent: unicode(ea2d);
+$icon-search: unicode(ea2d);
+$icon-sent: unicode(ea2e);
 $icon-sent2: unicode(ea2f);
 $icon-settings: unicode(ea30);
 $icon-share: unicode(ea31);
 $icon-slide-show: unicode(ea32);
 $icon-title: unicode(ea33);
+$icon-undo: unicode(ea35);
 $icon-upload: unicode(ea34);
-$icon-video-replay: unicode(ea35);
-$icon-video: unicode(ea36);
-$icon-volumn: unicode(ea37);
-$icon-youtube: unicode(ea38);
+$icon-video-replay: unicode(ea36);
+$icon-video: unicode(ea37);
+$icon-volumn: unicode(ea38);
+$icon-youtube: unicode(ea39);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -180,6 +183,14 @@ $icon-youtube: unicode(ea38);
   content: $icon-note;
 }
 
+.icon-note1::before {
+  content: $icon-note1;
+}
+
+.icon-note2::before {
+  content: $icon-note2;
+}
+
 .icon-ok::before {
   content: $icon-ok;
 }
@@ -254,6 +265,10 @@ $icon-youtube: unicode(ea38);
 
 .icon-title::before {
   content: $icon-title;
+}
+
+.icon-undo::before {
+  content: $icon-undo;
 }
 
 .icon-upload::before {
