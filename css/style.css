@@ -167,11 +167,11 @@ Generated using nucleoapp.com
 }
 
 .icon-calendar::before {
-  content: "\ea05";
+  content: "\ea04";
 }
 
 .icon-camera::before {
-  content: "\ea04";
+  content: "\ea05";
 }
 
 .icon-card::before {
@@ -179,23 +179,23 @@ Generated using nucleoapp.com
 }
 
 .icon-center-align::before {
-  content: "\ea07";
-}
-
-.icon-challenge::before {
-  content: "\ea09";
-}
-
-.icon-close::before {
   content: "\ea08";
 }
 
+.icon-challenge::before {
+  content: "\ea07";
+}
+
+.icon-close::before {
+  content: "\ea09";
+}
+
 .icon-colour::before {
-  content: "\ea0b";
+  content: "\ea0a";
 }
 
 .icon-delete::before {
-  content: "\ea0a";
+  content: "\ea0b";
 }
 
 .icon-edit::before {
@@ -274,6 +274,13 @@ Generated using nucleoapp.com
   content: "\ea1e";
 }
 
+.icon-note1::before {
+  content: "\ea1f";
+}
+
+.icon-note2::before {
+  content: "\ea20";
+}
 
 .icon-ok::before {
   content: "\ea21";
@@ -324,11 +331,11 @@ Generated using nucleoapp.com
 }
 
 .icon-search::before {
-  content: "\ea2e";
+  content: "\ea2d";
 }
 
 .icon-sent::before {
-  content: "\ea2d";
+  content: "\ea2e";
 }
 
 .icon-sent2::before {

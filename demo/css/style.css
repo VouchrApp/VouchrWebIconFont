@@ -178,11 +178,11 @@ icons
 }
 
 .icon-calendar::before {
-    content: "\ea05";
+    content: "\ea04";
 }
 
 .icon-camera::before {
-    content: "\ea04";
+    content: "\ea05";
 }
 
 .icon-card::before {
@@ -190,23 +190,23 @@ icons
 }
 
 .icon-center-align::before {
-    content: "\ea07";
-}
-
-.icon-challenge::before {
-    content: "\ea09";
-}
-
-.icon-close::before {
     content: "\ea08";
 }
 
+.icon-challenge::before {
+    content: "\ea07";
+}
+
+.icon-close::before {
+    content: "\ea09";
+}
+
 .icon-colour::before {
-    content: "\ea0b";
+    content: "\ea0a";
 }
 
 .icon-delete::before {
-    content: "\ea0a";
+    content: "\ea0b";
 }
 
 .icon-edit::before {
@@ -285,6 +285,13 @@ icons
     content: "\ea1e";
 }
 
+.icon-note1::before {
+    content: "\ea1f";
+}
+
+.icon-note2::before {
+    content: "\ea20";
+}
 
 .icon-ok::before {
     content: "\ea21";
@@ -335,11 +342,11 @@ icons
 }
 
 .icon-search::before {
-    content: "\ea2e";
+    content: "\ea2d";
 }
 
 .icon-sent::before {
-    content: "\ea2d";
+    content: "\ea2e";
 }
 
 .icon-sent2::before {
@@ -361,26 +368,27 @@ icons
 .icon-title::before {
     content: "\ea33";
 }
+
 .icon-undo::before {
-  content: "\ea35";
+    content: "\ea35";
 }
 
 .icon-upload::before {
-  content: "\ea34";
+    content: "\ea34";
 }
 
 .icon-video-replay::before {
-  content: "\ea36";
+    content: "\ea36";
 }
 
 .icon-video::before {
-  content: "\ea37";
+    content: "\ea37";
 }
 
 .icon-volumn::before {
-  content: "\ea38";
+    content: "\ea38";
 }
 
 .icon-youtube::before {
-  content: "\ea39";
+    content: "\ea39";
 }
