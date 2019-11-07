@@ -9,8 +9,8 @@ $icon-GIF: unicode(ea01);
 $icon-ar: unicode(ea02);
 $icon-back: unicode(ea03);
 $icon-calendar: unicode(ea04);
-$icon-camera: unicode(ea06);
-$icon-card: unicode(ea05);
+$icon-camera: unicode(ea05);
+$icon-card: unicode(ea06);
 $icon-center-align: unicode(ea07);
 $icon-challenge: unicode(ea08);
 $icon-close: unicode(ea09);
@@ -38,12 +38,12 @@ $icon-mute: unicode(ea1e);
 $icon-note: unicode(ea1f);
 $icon-note1: unicode(ea20);
 $icon-note2: unicode(ea21);
-$icon-ok: unicode(ea23);
-$icon-open: unicode(ea22);
+$icon-ok: unicode(ea22);
+$icon-open: unicode(ea23);
 $icon-preview: unicode(ea24);
 $icon-receipt: unicode(ea25);
-$icon-received: unicode(ea27);
-$icon-refresh: unicode(ea26);
+$icon-received: unicode(ea26);
+$icon-refresh: unicode(ea27);
 $icon-reorder: unicode(ea28);
 $icon-replay: unicode(ea29);
 $icon-right-align: unicode(ea2a);
@@ -57,13 +57,14 @@ $icon-settings: unicode(ea31);
 $icon-share: unicode(ea32);
 $icon-slide-show: unicode(ea33);
 $icon-title: unicode(ea34);
-$icon-undo: unicode(ea35);
-$icon-upload: unicode(ea36);
-$icon-video-replay: unicode(ea37);
-$icon-video: unicode(ea38);
+$icon-tools: unicode(ea35);
+$icon-undo: unicode(ea36);
+$icon-upload: unicode(ea37);
+$icon-video-replay: unicode(ea38);
+$icon-video: unicode(ea39);
 $icon-volumn: unicode(ea3a);
-$icon-window: unicode(ea39);
-$icon-youtube: unicode(ea3b);
+$icon-window: unicode(ea3b);
+$icon-youtube: unicode(ea3c);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -271,6 +272,10 @@ $icon-youtube: unicode(ea3b);
 
 .icon-title::before {
   content: $icon-title;
+}
+
+.icon-tools::before {
+  content: $icon-tools;
 }
 
 .icon-undo::before {

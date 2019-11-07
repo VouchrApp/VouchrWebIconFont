@@ -171,11 +171,11 @@ Generated using nucleoapp.com
 }
 
 .icon-camera::before {
-  content: "\ea06";
+  content: "\ea05";
 }
 
 .icon-card::before {
-  content: "\ea05";
+  content: "\ea06";
 }
 
 .icon-center-align::before {
@@ -287,11 +287,11 @@ Generated using nucleoapp.com
 }
 
 .icon-ok::before {
-  content: "\ea23";
+  content: "\ea22";
 }
 
 .icon-open::before {
-  content: "\ea22";
+  content: "\ea23";
 }
 
 .icon-preview::before {
@@ -303,11 +303,11 @@ Generated using nucleoapp.com
 }
 
 .icon-received::before {
-  content: "\ea27";
+  content: "\ea26";
 }
 
 .icon-refresh::before {
-  content: "\ea26";
+  content: "\ea27";
 }
 
 .icon-reorder::before {
@@ -362,20 +362,24 @@ Generated using nucleoapp.com
   content: "\ea34";
 }
 
-.icon-undo::before {
+.icon-tools::before {
   content: "\ea35";
 }
 
-.icon-upload::before {
+.icon-undo::before {
   content: "\ea36";
 }
 
-.icon-video-replay::before {
+.icon-upload::before {
   content: "\ea37";
 }
 
-.icon-video::before {
+.icon-video-replay::before {
   content: "\ea38";
+}
+
+.icon-video::before {
+  content: "\ea39";
 }
 
 .icon-volumn::before {
@@ -383,9 +387,9 @@ Generated using nucleoapp.com
 }
 
 .icon-window::before {
-  content: "\ea39";
+  content: "\ea3b";
 }
 
 .icon-youtube::before {
-  content: "\ea3b";
+  content: "\ea3c";
 }
