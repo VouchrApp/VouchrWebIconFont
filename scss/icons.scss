@@ -13,9 +13,9 @@ $icon-camera: unicode(ea05);
 $icon-card: unicode(ea06);
 $icon-center-align: unicode(ea07);
 $icon-challenge: unicode(ea08);
-$icon-close: unicode(ea09);
-$icon-colour: unicode(ea0b);
-$icon-delete: unicode(ea0a);
+$icon-close: unicode(ea0a);
+$icon-colour: unicode(ea09);
+$icon-delete: unicode(ea0b);
 $icon-edit: unicode(ea0c);
 $icon-font: unicode(ea0d);
 $icon-format: unicode(ea0e);
@@ -39,8 +39,8 @@ $icon-note: unicode(ea1f);
 $icon-note1: unicode(ea20);
 $icon-note2: unicode(ea21);
 $icon-ok: unicode(ea22);
-$icon-open: unicode(ea23);
-$icon-preview: unicode(ea24);
+$icon-open: unicode(ea24);
+$icon-preview: unicode(ea23);
 $icon-receipt: unicode(ea25);
 $icon-received: unicode(ea26);
 $icon-refresh: unicode(ea27);
@@ -57,14 +57,15 @@ $icon-settings: unicode(ea31);
 $icon-share: unicode(ea32);
 $icon-slide-show: unicode(ea33);
 $icon-title: unicode(ea34);
-$icon-tools: unicode(ea35);
-$icon-undo: unicode(ea36);
-$icon-upload: unicode(ea37);
-$icon-video-replay: unicode(ea38);
-$icon-video: unicode(ea39);
-$icon-volumn: unicode(ea3a);
-$icon-window: unicode(ea3b);
-$icon-youtube: unicode(ea3c);
+$icon-toolbox: unicode(ea35);
+$icon-tools: unicode(ea36);
+$icon-undo: unicode(ea37);
+$icon-upload: unicode(ea38);
+$icon-video-replay: unicode(ea39);
+$icon-video: unicode(ea3a);
+$icon-volumn: unicode(ea3b);
+$icon-window: unicode(ea3c);
+$icon-youtube: unicode(ea3d);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -272,6 +273,10 @@ $icon-youtube: unicode(ea3c);
 
 .icon-title::before {
   content: $icon-title;
+}
+
+.icon-toolbox::before {
+  content: $icon-toolbox;
 }
 
 .icon-tools::before {
