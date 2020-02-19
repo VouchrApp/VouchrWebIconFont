@@ -13,59 +13,62 @@ $icon-camera: unicode(ea05);
 $icon-card: unicode(ea06);
 $icon-center-align: unicode(ea07);
 $icon-challenge: unicode(ea08);
-$icon-close: unicode(ea0a);
-$icon-colour: unicode(ea09);
+$icon-close: unicode(ea09);
+$icon-colour: unicode(ea0a);
 $icon-delete: unicode(ea0b);
-$icon-edit: unicode(ea0c);
-$icon-font: unicode(ea0d);
-$icon-format: unicode(ea0e);
-$icon-fullscreen: unicode(ea0f);
-$icon-game: unicode(ea10);
-$icon-game2: unicode(ea11);
-$icon-gift: unicode(ea12);
-$icon-history: unicode(ea13);
-$icon-image: unicode(ea14);
-$icon-left-align: unicode(ea15);
-$icon-left: unicode(ea16);
-$icon-leftSmall: unicode(ea17);
-$icon-library: unicode(ea18);
-$icon-like-full: unicode(ea19);
-$icon-like: unicode(ea1a);
-$icon-location: unicode(ea1b);
-$icon-lock: unicode(ea1c);
-$icon-menu: unicode(ea1d);
-$icon-mute: unicode(ea1e);
-$icon-note: unicode(ea1f);
-$icon-note1: unicode(ea20);
-$icon-note2: unicode(ea21);
-$icon-ok: unicode(ea22);
-$icon-open: unicode(ea24);
-$icon-preview: unicode(ea23);
-$icon-receipt: unicode(ea25);
-$icon-received: unicode(ea26);
-$icon-refresh: unicode(ea27);
-$icon-reorder: unicode(ea28);
-$icon-replay: unicode(ea29);
-$icon-right-align: unicode(ea2a);
-$icon-right: unicode(ea2b);
-$icon-rightSmall: unicode(ea2c);
-$icon-rotate-camera: unicode(ea2d);
-$icon-search: unicode(ea2e);
-$icon-sent: unicode(ea2f);
-$icon-sent2: unicode(ea30);
-$icon-settings: unicode(ea31);
-$icon-share: unicode(ea32);
-$icon-slide-show: unicode(ea33);
-$icon-title: unicode(ea34);
-$icon-toolbox: unicode(ea35);
-$icon-tools: unicode(ea36);
-$icon-undo: unicode(ea37);
-$icon-upload: unicode(ea38);
-$icon-video-replay: unicode(ea39);
-$icon-video: unicode(ea3a);
-$icon-volumn: unicode(ea3b);
-$icon-window: unicode(ea3c);
-$icon-youtube: unicode(ea3d);
+$icon-edit-2: unicode(ea0c);
+$icon-edit: unicode(ea0d);
+$icon-edit2: unicode(ea0e);
+$icon-font: unicode(ea0f);
+$icon-format: unicode(ea10);
+$icon-fullscreen: unicode(ea11);
+$icon-game: unicode(ea12);
+$icon-game2: unicode(ea13);
+$icon-gift: unicode(ea14);
+$icon-history: unicode(ea15);
+$icon-image: unicode(ea16);
+$icon-left-align: unicode(ea17);
+$icon-left: unicode(ea18);
+$icon-leftSmall: unicode(ea19);
+$icon-library: unicode(ea1a);
+$icon-like-full: unicode(ea1b);
+$icon-like: unicode(ea1c);
+$icon-location: unicode(ea1d);
+$icon-lock: unicode(ea1e);
+$icon-menu: unicode(ea1f);
+$icon-mute: unicode(ea20);
+$icon-mute2: unicode(ea21);
+$icon-note: unicode(ea22);
+$icon-note1: unicode(ea23);
+$icon-note2: unicode(ea24);
+$icon-ok: unicode(ea26);
+$icon-open: unicode(ea25);
+$icon-preview: unicode(ea27);
+$icon-receipt: unicode(ea28);
+$icon-received: unicode(ea29);
+$icon-refresh: unicode(ea2a);
+$icon-reorder: unicode(ea2b);
+$icon-replay: unicode(ea2c);
+$icon-right-align: unicode(ea2d);
+$icon-right: unicode(ea2e);
+$icon-rightSmall: unicode(ea2f);
+$icon-rotate-camera: unicode(ea30);
+$icon-search: unicode(ea31);
+$icon-sent: unicode(ea32);
+$icon-sent2: unicode(ea33);
+$icon-settings: unicode(ea35);
+$icon-share: unicode(ea34);
+$icon-slide-show: unicode(ea36);
+$icon-title: unicode(ea37);
+$icon-toolbox: unicode(ea38);
+$icon-tools: unicode(ea39);
+$icon-undo: unicode(ea3a);
+$icon-upload: unicode(ea3b);
+$icon-video-replay: unicode(ea3c);
+$icon-video: unicode(ea3d);
+$icon-volumn: unicode(ea3e);
+$icon-window: unicode(ea3f);
+$icon-youtube: unicode(ea40);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -111,8 +114,16 @@ $icon-youtube: unicode(ea3d);
   content: $icon-delete;
 }
 
+.icon-edit-2::before {
+  content: $icon-edit-2;
+}
+
 .icon-edit::before {
   content: $icon-edit;
+}
+
+.icon-edit2::before {
+  content: $icon-edit2;
 }
 
 .icon-font::before {
@@ -185,6 +196,10 @@ $icon-youtube: unicode(ea3d);
 
 .icon-mute::before {
   content: $icon-mute;
+}
+
+.icon-mute2::before {
+  content: $icon-mute2;
 }
 
 .icon-note::before {
