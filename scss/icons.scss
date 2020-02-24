@@ -12,8 +12,8 @@ $icon-calendar: unicode(ea04);
 $icon-camera: unicode(ea05);
 $icon-card: unicode(ea06);
 $icon-center-align: unicode(ea07);
-$icon-challenge: unicode(ea09);
-$icon-close: unicode(ea08);
+$icon-challenge: unicode(ea08);
+$icon-close: unicode(ea09);
 $icon-colour: unicode(ea0a);
 $icon-delete: unicode(ea0b);
 $icon-edit-2: unicode(ea0c);
@@ -44,32 +44,34 @@ $icon-note1: unicode(ea24);
 $icon-note2: unicode(ea25);
 $icon-ok: unicode(ea26);
 $icon-open: unicode(ea27);
-$icon-preview: unicode(ea28);
-$icon-receipt: unicode(ea29);
-$icon-received: unicode(ea2a);
-$icon-refresh: unicode(ea2b);
-$icon-reorder: unicode(ea2c);
-$icon-replay: unicode(ea2d);
-$icon-right-align: unicode(ea2e);
-$icon-right: unicode(ea2f);
-$icon-rightSmall: unicode(ea30);
-$icon-rotate-camera: unicode(ea31);
-$icon-search: unicode(ea32);
-$icon-sent: unicode(ea33);
-$icon-sent2: unicode(ea34);
-$icon-settings: unicode(ea35);
-$icon-share: unicode(ea36);
-$icon-slide-show: unicode(ea37);
-$icon-title: unicode(ea38);
-$icon-toolbox: unicode(ea39);
-$icon-tools: unicode(ea3a);
-$icon-undo: unicode(ea3b);
-$icon-upload: unicode(ea3c);
-$icon-video-replay: unicode(ea3d);
-$icon-video: unicode(ea3e);
-$icon-volumn: unicode(ea3f);
-$icon-window: unicode(ea40);
-$icon-youtube: unicode(ea41);
+$icon-pause: unicode(ea28);
+$icon-play: unicode(ea29);
+$icon-preview: unicode(ea2a);
+$icon-receipt: unicode(ea2b);
+$icon-received: unicode(ea2c);
+$icon-refresh: unicode(ea2d);
+$icon-reorder: unicode(ea2e);
+$icon-replay: unicode(ea2f);
+$icon-right-align: unicode(ea30);
+$icon-right: unicode(ea31);
+$icon-rightSmall: unicode(ea32);
+$icon-rotate-camera: unicode(ea33);
+$icon-search: unicode(ea34);
+$icon-sent: unicode(ea35);
+$icon-sent2: unicode(ea36);
+$icon-settings: unicode(ea37);
+$icon-share: unicode(ea38);
+$icon-slide-show: unicode(ea39);
+$icon-title: unicode(ea3a);
+$icon-toolbox: unicode(ea3b);
+$icon-tools: unicode(ea3c);
+$icon-undo: unicode(ea3d);
+$icon-upload: unicode(ea3e);
+$icon-video-replay: unicode(ea3f);
+$icon-video: unicode(ea40);
+$icon-volumn: unicode(ea41);
+$icon-window: unicode(ea42);
+$icon-youtube: unicode(ea43);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -225,6 +227,14 @@ $icon-youtube: unicode(ea41);
 
 .icon-open::before {
   content: $icon-open;
+}
+
+.icon-pause::before {
+  content: $icon-pause;
+}
+
+.icon-play::before {
+  content: $icon-play;
 }
 
 .icon-preview::before {

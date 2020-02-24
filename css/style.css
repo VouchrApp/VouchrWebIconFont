@@ -183,11 +183,11 @@ Generated using nucleoapp.com
 }
 
 .icon-challenge::before {
-  content: "\ea09";
+  content: "\ea08";
 }
 
 .icon-close::before {
-  content: "\ea08";
+  content: "\ea09";
 }
 
 .icon-colour::before {
@@ -310,106 +310,114 @@ Generated using nucleoapp.com
   content: "\ea27";
 }
 
-.icon-preview::before {
+.icon-pause::before {
   content: "\ea28";
 }
 
-.icon-receipt::before {
+.icon-play::before {
   content: "\ea29";
 }
 
-.icon-received::before {
+.icon-preview::before {
   content: "\ea2a";
 }
 
-.icon-refresh::before {
+.icon-receipt::before {
   content: "\ea2b";
 }
 
-.icon-reorder::before {
+.icon-received::before {
   content: "\ea2c";
 }
 
-.icon-replay::before {
+.icon-refresh::before {
   content: "\ea2d";
 }
 
-.icon-right-align::before {
+.icon-reorder::before {
   content: "\ea2e";
 }
 
-.icon-right::before {
+.icon-replay::before {
   content: "\ea2f";
 }
 
-.icon-rightSmall::before {
+.icon-right-align::before {
   content: "\ea30";
 }
 
-.icon-rotate-camera::before {
+.icon-right::before {
   content: "\ea31";
 }
 
-.icon-search::before {
+.icon-rightSmall::before {
   content: "\ea32";
 }
 
-.icon-sent::before {
+.icon-rotate-camera::before {
   content: "\ea33";
 }
 
-.icon-sent2::before {
+.icon-search::before {
   content: "\ea34";
 }
 
-.icon-settings::before {
+.icon-sent::before {
   content: "\ea35";
 }
 
-.icon-share::before {
+.icon-sent2::before {
   content: "\ea36";
 }
 
-.icon-slide-show::before {
+.icon-settings::before {
   content: "\ea37";
 }
 
-.icon-title::before {
+.icon-share::before {
   content: "\ea38";
 }
 
-.icon-toolbox::before {
+.icon-slide-show::before {
   content: "\ea39";
 }
 
-.icon-tools::before {
+.icon-title::before {
   content: "\ea3a";
 }
 
-.icon-undo::before {
+.icon-toolbox::before {
   content: "\ea3b";
 }
 
-.icon-upload::before {
+.icon-tools::before {
   content: "\ea3c";
 }
 
-.icon-video-replay::before {
+.icon-undo::before {
   content: "\ea3d";
 }
 
-.icon-video::before {
+.icon-upload::before {
   content: "\ea3e";
 }
 
-.icon-volumn::before {
+.icon-video-replay::before {
   content: "\ea3f";
 }
 
-.icon-window::before {
+.icon-video::before {
   content: "\ea40";
 }
 
-.icon-youtube::before {
+.icon-volumn::before {
   content: "\ea41";
+}
+
+.icon-window::before {
+  content: "\ea42";
+}
+
+.icon-youtube::before {
+  content: "\ea43";
 }
