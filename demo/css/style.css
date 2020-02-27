@@ -431,3 +431,7 @@ icons
 .icon-youtube::before {
     content: "\ea43";
 }
+
+.icon-stop::before {
+    content: "\ea44";
+}
