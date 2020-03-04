@@ -425,3 +425,7 @@ Generated using nucleoapp.com
 .icon-stop::before {
   content: "\ea44";
 }
+
+.icon-volume2::before {
+  content: "\ea45";
+}
