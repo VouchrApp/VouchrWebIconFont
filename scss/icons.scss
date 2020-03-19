@@ -74,6 +74,7 @@ $icon-window: unicode(ea42);
 $icon-youtube: unicode(ea43);
 $icon-stop: unicode(ea44);
 $icon-volume2: unicode(ea45);
+$icon-warning: unicode(ea46);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -349,4 +350,8 @@ $icon-volume2: unicode(ea45);
 
 .icon-volume2::before {
   content: $icon-zvolume2;
+}
+
+.icon-warning::before {
+  content: $icon-warning;
 }
