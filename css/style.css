@@ -163,12 +163,13 @@ Generated using nucleoapp.com
 }
 
 .icon-back::before {
-  content: "\ea04";
+    content: "\ea03";
 }
 
 .icon-calendar::before {
-  content: "\ea03";
+    content: "\ea04";
 }
+
 
 .icon-camera::before {
   content: "\ea05";
