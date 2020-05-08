@@ -216,11 +216,11 @@ Generated using nucleoapp.com
 }
 
 .icon-format::before {
-  content: "\ea10";
+  content: "\ea11";
 }
 
 .icon-fullscreen::before {
-  content: "\ea11";
+  content: "\ea10";
 }
 
 .icon-game::before {
@@ -380,11 +380,11 @@ Generated using nucleoapp.com
 }
 
 .icon-slide-show::before {
-  content: "\ea39";
+  content: "\ea3a";
 }
 
 .icon-title::before {
-  content: "\ea3a";
+  content: "\ea39";
 }
 
 .icon-toolbox::before {
@@ -433,4 +433,12 @@ Generated using nucleoapp.com
 
 .icon-warning::before {
   content: "\ea46";
+}
+
+.icon-music-off::before {
+  content: "\ea47";
+}
+
+.icon-music::before {
+  content: "\ea48";
 }

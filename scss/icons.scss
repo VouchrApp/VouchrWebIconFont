@@ -20,8 +20,8 @@ $icon-edit-2: unicode(ea0c);
 $icon-edit: unicode(ea0d);
 $icon-edit2: unicode(ea0e);
 $icon-font: unicode(ea0f);
-$icon-format: unicode(ea10);
-$icon-fullscreen: unicode(ea11);
+$icon-format: unicode(ea11);
+$icon-fullscreen: unicode(ea10);
 $icon-game: unicode(ea12);
 $icon-game2: unicode(ea13);
 $icon-gift: unicode(ea14);
@@ -61,8 +61,8 @@ $icon-sent: unicode(ea35);
 $icon-sent2: unicode(ea36);
 $icon-settings: unicode(ea37);
 $icon-share: unicode(ea38);
-$icon-slide-show: unicode(ea39);
-$icon-title: unicode(ea3a);
+$icon-slide-show: unicode(ea3a);
+$icon-title: unicode(ea39);
 $icon-toolbox: unicode(ea3b);
 $icon-tools: unicode(ea3c);
 $icon-undo: unicode(ea3d);
@@ -75,6 +75,8 @@ $icon-youtube: unicode(ea43);
 $icon-stop: unicode(ea44);
 $icon-volume2: unicode(ea45);
 $icon-warning: unicode(ea46);
+$icon-music-off: unicode(ea47);
+$icon-music: unicode(ea48);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -354,4 +356,12 @@ $icon-warning: unicode(ea46);
 
 .icon-warning::before {
   content: $icon-warning;
+}
+
+.icon-music-off::before {
+  content: $icon-music-off;
+}
+
+.icon-music::before {
+  content: $icon-music;
 }
