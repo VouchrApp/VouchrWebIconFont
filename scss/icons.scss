@@ -10,9 +10,9 @@ $icon-ar: unicode(ea02);
 $icon-back: unicode(ea03);
 $icon-calendar: unicode(ea04);
 $icon-camera: unicode(ea05);
-$icon-card: unicode(ea06);
-$icon-center-align: unicode(ea07);
-$icon-challenge: unicode(ea08);
+$icon-card: unicode(ea07);
+$icon-center-align: unicode(ea08);
+$icon-challenge: unicode(ea06);
 $icon-close: unicode(ea09);
 $icon-colour: unicode(ea0a);
 $icon-delete: unicode(ea0b);
@@ -20,8 +20,8 @@ $icon-edit-2: unicode(ea0c);
 $icon-edit: unicode(ea0d);
 $icon-edit2: unicode(ea0e);
 $icon-font: unicode(ea0f);
-$icon-format: unicode(ea11);
-$icon-fullscreen: unicode(ea10);
+$icon-format: unicode(ea10);
+$icon-fullscreen: unicode(ea11);
 $icon-game: unicode(ea12);
 $icon-game2: unicode(ea13);
 $icon-gift: unicode(ea14);
@@ -61,8 +61,8 @@ $icon-sent: unicode(ea35);
 $icon-sent2: unicode(ea36);
 $icon-settings: unicode(ea37);
 $icon-share: unicode(ea38);
-$icon-slide-show: unicode(ea3a);
-$icon-title: unicode(ea39);
+$icon-slide-show: unicode(ea39);
+$icon-title: unicode(ea3a);
 $icon-toolbox: unicode(ea3b);
 $icon-tools: unicode(ea3c);
 $icon-undo: unicode(ea3d);
@@ -71,12 +71,17 @@ $icon-video-replay: unicode(ea3f);
 $icon-video: unicode(ea40);
 $icon-volumn: unicode(ea41);
 $icon-window: unicode(ea42);
-$icon-youtube: unicode(ea43);
-$icon-stop: unicode(ea44);
-$icon-volume2: unicode(ea45);
-$icon-warning: unicode(ea46);
-$icon-music-off: unicode(ea47);
-$icon-music: unicode(ea48);
+$icon-youtube: unicode(ea44);
+$icon-stop: unicode(ea45);
+$icon-volume2: unicode(ea46);
+$icon-warning: unicode(ea43);
+$icon-music-off: unicode(ea48);
+$icon-music: unicode(ea47);
+$icon-interactive-filled: unicode(ea4a);
+$icon-interactive: unicode(ea49);
+$icon-premium-filled: unicode(ea4b);
+$icon-premium: unicode(ea4c);
+
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -364,4 +369,20 @@ $icon-music: unicode(ea48);
 
 .icon-music::before {
   content: $icon-music;
+}
+
+.icon-interactive-filled::before {
+  content: $icon-interactive-filled;
+}
+
+.icon-interactive::before {
+  content: $icon-interactive;
+}
+
+.icon-premium-filled::before {
+  content: $icon-premium-filled;
+}
+
+.icon-premium::before {
+  content: $icon-premium;
 }
