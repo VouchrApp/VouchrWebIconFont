@@ -185,15 +185,15 @@ icons
 }
 
 .icon-card::before {
-    content: "\ea07";
+    content: "\ea06";
 }
 
 .icon-center-align::before {
-    content: "\ea08";
+    content: "\ea07";
 }
 
 .icon-challenge::before {
-    content: "\ea06";
+    content: "\ea08";
 }
 
 .icon-close::before {
@@ -285,11 +285,11 @@ icons
 }
 
 .icon-menu::before {
-    content: "\ea1f";
+    content: "\ea20";
 }
 
 .icon-more::before {
-    content: "\ea20";
+    content: "\ea1f";
 }
 
 .icon-mute::before {
@@ -421,11 +421,11 @@ icons
 }
 
 .icon-volumn::before {
-    content: "\ea41";
+    content: "\ea42";
 }
 
 .icon-window::before {
-    content: "\ea42";
+    content: "\ea43";
 }
 
 .icon-youtube::before {
@@ -441,7 +441,7 @@ icons
 }
 
 .icon-warning::before {
-    content: "\ea43";
+    content: "\ea41";
 }
 
 .icon-music-off::before {
@@ -466,4 +466,12 @@ icons
 
 .icon-premium::before {
   content: "\ea4c";
+}
+
+.icon-add::before {
+  content: "\ea4d";
+}
+
+.icon-double-chevron::before {
+  content: "\ea4e";
 }

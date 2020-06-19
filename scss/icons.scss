@@ -10,9 +10,9 @@ $icon-ar: unicode(ea02);
 $icon-back: unicode(ea03);
 $icon-calendar: unicode(ea04);
 $icon-camera: unicode(ea05);
-$icon-card: unicode(ea07);
-$icon-center-align: unicode(ea08);
-$icon-challenge: unicode(ea06);
+$icon-card: unicode(ea06);
+$icon-center-align: unicode(ea07);
+$icon-challenge: unicode(ea08);
 $icon-close: unicode(ea09);
 $icon-colour: unicode(ea0a);
 $icon-delete: unicode(ea0b);
@@ -35,8 +35,8 @@ $icon-like-full: unicode(ea1b);
 $icon-like: unicode(ea1c);
 $icon-location: unicode(ea1d);
 $icon-lock: unicode(ea1e);
-$icon-menu: unicode(ea1f);
-$icon-more: unicode(ea20);
+$icon-menu: unicode(ea20);
+$icon-more: unicode(ea1f);
 $icon-mute: unicode(ea21);
 $icon-mute2: unicode(ea22);
 $icon-note: unicode(ea23);
@@ -69,19 +69,20 @@ $icon-undo: unicode(ea3d);
 $icon-upload: unicode(ea3e);
 $icon-video-replay: unicode(ea3f);
 $icon-video: unicode(ea40);
-$icon-volumn: unicode(ea41);
-$icon-window: unicode(ea42);
+$icon-volumn: unicode(ea42);
+$icon-window: unicode(ea43);
 $icon-youtube: unicode(ea44);
 $icon-stop: unicode(ea45);
 $icon-volume2: unicode(ea46);
-$icon-warning: unicode(ea43);
+$icon-warning: unicode(ea41);
 $icon-music-off: unicode(ea48);
 $icon-music: unicode(ea47);
 $icon-interactive-filled: unicode(ea4a);
 $icon-interactive: unicode(ea49);
 $icon-premium-filled: unicode(ea4b);
 $icon-premium: unicode(ea4c);
-
+$icon-add: unicode(ea4d);
+$icon-double-chevron: unicode(ea4e);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -385,4 +386,12 @@ $icon-premium: unicode(ea4c);
 
 .icon-premium::before {
   content: $icon-premium;
+}
+
+.icon-add::before {
+  content: $icon-add;
+}
+
+.icon-double-chevron::before {
+  content: $icon-double-chevron;
 }
