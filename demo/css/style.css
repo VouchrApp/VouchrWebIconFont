@@ -445,11 +445,11 @@ icons
 }
 
 .icon-music-off::before {
-    content: "\ea48";
+    content: "\ea47";
 }
 
 .icon-music::before {
-    content: "\ea47";
+    content: "\ea48";
 }
 
 .icon-interactive-filled::before {
