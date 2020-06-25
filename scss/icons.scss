@@ -35,8 +35,8 @@ $icon-like-full: unicode(ea1b);
 $icon-like: unicode(ea1c);
 $icon-location: unicode(ea1d);
 $icon-lock: unicode(ea1e);
-$icon-menu: unicode(ea20);
-$icon-more: unicode(ea1f);
+$icon-menu: unicode(ea1f);
+$icon-more: unicode(ea20);
 $icon-mute: unicode(ea21);
 $icon-mute2: unicode(ea22);
 $icon-note: unicode(ea23);
@@ -69,20 +69,22 @@ $icon-undo: unicode(ea3d);
 $icon-upload: unicode(ea3e);
 $icon-video-replay: unicode(ea3f);
 $icon-video: unicode(ea40);
-$icon-volumn: unicode(ea42);
+$icon-volumn: unicode(ea46);
+$icon-warning: unicode(ea42);
 $icon-window: unicode(ea43);
 $icon-youtube: unicode(ea44);
 $icon-stop: unicode(ea45);
-$icon-volume2: unicode(ea46);
-$icon-warning: unicode(ea41);
+$icon-volume2: unicode(ea41);
 $icon-music-off: unicode(ea47);
 $icon-music: unicode(ea48);
-$icon-interactive-filled: unicode(ea4a);
-$icon-interactive: unicode(ea49);
+$icon-interactive-filled: unicode(ea49);
+$icon-interactive: unicode(ea4a);
 $icon-premium-filled: unicode(ea4b);
 $icon-premium: unicode(ea4c);
 $icon-add: unicode(ea4d);
 $icon-double-chevron: unicode(ea4e);
+$icon-group: unicode(ea4f);
+$icon-money: unicode(ea50);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -344,6 +346,10 @@ $icon-double-chevron: unicode(ea4e);
   content: $icon-volumn;
 }
 
+.icon-warning::before {
+  content: $icon-warning;
+}
+
 .icon-window::before {
   content: $icon-window;
 }
@@ -352,46 +358,50 @@ $icon-double-chevron: unicode(ea4e);
   content: $icon-youtube;
 }
 
-.icon-stop::before {
-  content: $icon-zstop;
+.icon-zstop::before {
+  content: $icon-stop;
 }
 
-.icon-volume2::before {
-  content: $icon-zvolume2;
+.icon-zvolume2::before {
+  content: $icon-volume2;
 }
 
-.icon-warning::before {
-  content: $icon-warning;
-}
-
-.icon-music-off::before {
+.icon-zzmusic-off::before {
   content: $icon-music-off;
 }
 
-.icon-music::before {
+.icon-zzmusic::before {
   content: $icon-music;
 }
 
-.icon-interactive-filled::before {
+.icon-zzzinteractive-filled::before {
   content: $icon-interactive-filled;
 }
 
-.icon-interactive::before {
+.icon-zzzinteractive::before {
   content: $icon-interactive;
 }
 
-.icon-premium-filled::before {
+.icon-zzzpremium-filled::before {
   content: $icon-premium-filled;
 }
 
-.icon-premium::before {
+.icon-zzzpremium::before {
   content: $icon-premium;
 }
 
-.icon-add::before {
+.icon-zzzzadd::before {
   content: $icon-add;
 }
 
-.icon-double-chevron::before {
+.icon-zzzzdouble-chevron::before {
   content: $icon-double-chevron;
+}
+
+.icon-zzzzzgroup::before {
+  content: $icon-group;
+}
+
+.icon-zzzzzmoney::before {
+  content: $icon-money;
 }
