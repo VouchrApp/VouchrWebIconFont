@@ -186,8 +186,12 @@ Generated using nucleoapp.com
     content: "\ea08";
 }
 
-.icon-close::before {
+/* .icon-close::before {
     content: "\ea09";
+} */
+
+.icon-close::before {
+    content: "\ea19";
 }
 
 .icon-colour::before {
