@@ -155,325 +155,337 @@ Generated using nucleoapp.com
 -------------------------*/
 
 .icon-GIF::before {
-    content: "\ea01";
+  content: "\ea01";
 }
 
 .icon-ar::before {
-    content: "\ea02";
+  content: "\ea02";
 }
 
 .icon-back::before {
-    content: "\ea03";
+  content: "\ea03";
 }
 
 .icon-calendar::before {
-    content: "\ea04";
+  content: "\ea04";
 }
 
 .icon-camera::before {
-    content: "\ea05";
+  content: "\ea05";
 }
 
 .icon-card::before {
-    content: "\ea06";
+  content: "\ea06";
 }
 
 .icon-center-align::before {
-    content: "\ea07";
+  content: "\ea07";
 }
 
 .icon-challenge::before {
-    content: "\ea08";
+  content: "\ea08";
 }
 
-/* .icon-close::before {
-    content: "\ea09";
-} */
-
 .icon-close::before {
-    content: "\ea19";
+  content: "\ea19";
+}
+
+.icon-close2::before {
+  content: "\ea09";
 }
 
 .icon-colour::before {
-    content: "\ea0a";
+  content: "\ea0a";
 }
 
 .icon-delete::before {
-    content: "\ea0b";
+  content: "\ea0b";
 }
 
 .icon-edit-2::before {
-    content: "\ea0c";
+  content: "\ea0c";
 }
 
 .icon-edit::before {
-    content: "\ea0d";
+  content: "\ea0d";
 }
 
 .icon-edit2::before {
-    content: "\ea0e";
+  content: "\ea0e";
 }
 
 .icon-font::before {
-    content: "\ea0f";
+  content: "\ea0f";
 }
 
 .icon-format::before {
-    content: "\ea10";
+  content: "\ea10";
 }
 
 .icon-fullscreen::before {
-    content: "\ea11";
+  content: "\ea11";
 }
 
 .icon-game::before {
-    content: "\ea12";
+  content: "\ea12";
 }
 
 .icon-game2::before {
-    content: "\ea13";
+  content: "\ea13";
 }
 
 .icon-gift::before {
-    content: "\ea14";
+  content: "\ea14";
 }
 
 .icon-history::before {
-    content: "\ea15";
+  content: "\ea15";
 }
 
 .icon-image::before {
-    content: "\ea16";
+  content: "\ea16";
 }
 
 .icon-left-align::before {
-    content: "\ea17";
+  content: "\ea17";
 }
 
 .icon-left::before {
-    content: "\ea18";
+  content: "\ea18";
 }
 
 .icon-leftSmall::before {
-    content: "\ea19";
+  content: "\ea19";
 }
 
 .icon-library::before {
-    content: "\ea1a";
+  content: "\ea1a";
 }
 
 .icon-like-full::before {
-    content: "\ea1b";
+  content: "\ea1b";
 }
 
 .icon-like::before {
-    content: "\ea1c";
+  content: "\ea1c";
 }
 
 .icon-location::before {
-    content: "\ea1d";
+  content: "\ea1d";
 }
 
 .icon-lock::before {
-    content: "\ea1e";
+  content: "\ea1e";
 }
 
 .icon-menu::before {
-    content: "\ea1f";
+  content: "\ea1f";
 }
 
 .icon-more::before {
-    content: "\ea20";
+  content: "\ea20";
 }
 
 .icon-mute::before {
-    content: "\ea21";
+  content: "\ea21";
 }
 
 .icon-mute2::before {
-    content: "\ea22";
+  content: "\ea22";
 }
 
 .icon-note::before {
-    content: "\ea23";
+  content: "\ea23";
 }
 
 .icon-note1::before {
-    content: "\ea24";
+  content: "\ea24";
 }
 
 .icon-note2::before {
-    content: "\ea25";
+  content: "\ea25";
 }
 
 .icon-ok::before {
-    content: "\ea26";
+  content: "\ea26";
 }
 
 .icon-open::before {
-    content: "\ea27";
+  content: "\ea27";
+}
+
+.icon-package::before {
+  content: "\ea28";
 }
 
 .icon-pause::before {
-    content: "\ea28";
+  content: "\ea29";
 }
 
 .icon-play::before {
-    content: "\ea29";
+  content: "\ea2a";
 }
 
 .icon-preview::before {
-    content: "\ea2a";
+  content: "\ea2b";
+}
+
+.icon-quote-filled::before {
+  content: "\ea2c";
+}
+
+.icon-quote::before {
+  content: "\ea2d";
 }
 
 .icon-receipt::before {
-    content: "\ea2b";
+  content: "\ea2e";
 }
 
 .icon-received::before {
-    content: "\ea2c";
+  content: "\ea2f";
 }
 
 .icon-refresh::before {
-    content: "\ea2d";
+  content: "\ea30";
 }
 
 .icon-reorder::before {
-    content: "\ea2e";
+  content: "\ea31";
 }
 
 .icon-replay::before {
-    content: "\ea2f";
+  content: "\ea33";
 }
 
 .icon-right-align::before {
-    content: "\ea30";
+  content: "\ea32";
 }
 
 .icon-right::before {
-    content: "\ea31";
+  content: "\ea34";
 }
 
 .icon-rightSmall::before {
-    content: "\ea32";
+  content: "\ea35";
 }
 
 .icon-rotate-camera::before {
-    content: "\ea33";
+  content: "\ea36";
 }
 
 .icon-search::before {
-    content: "\ea34";
+  content: "\ea37";
 }
 
 .icon-sent::before {
-    content: "\ea35";
+  content: "\ea38";
 }
 
 .icon-sent2::before {
-    content: "\ea36";
+  content: "\ea39";
 }
 
 .icon-settings::before {
-    content: "\ea37";
+  content: "\ea3a";
 }
 
 .icon-share::before {
-    content: "\ea38";
+  content: "\ea3b";
 }
 
 .icon-slide-show::before {
-    content: "\ea39";
+  content: "\ea3c";
 }
 
 .icon-title::before {
-    content: "\ea3a";
+  content: "\ea3d";
 }
 
 .icon-toolbox::before {
-    content: "\ea3b";
+  content: "\ea3e";
 }
 
 .icon-tools::before {
-    content: "\ea3c";
+  content: "\ea3f";
 }
 
 .icon-undo::before {
-    content: "\ea3d";
+  content: "\ea40";
 }
 
 .icon-upload::before {
-    content: "\ea3e";
+  content: "\ea41";
 }
 
 .icon-video-replay::before {
-    content: "\ea3f";
+  content: "\ea42";
 }
 
 .icon-video::before {
-    content: "\ea40";
+  content: "\ea43";
 }
 
-.icon-volumn::before {
-    content: "\ea46";
+.icon-volumn2::before {
+  content: "\ea44";
 }
 
 .icon-warning::before {
-    content: "\ea42";
+  content: "\ea45";
 }
 
 .icon-window::before {
-    content: "\ea43";
+  content: "\ea46";
 }
 
 .icon-youtube::before {
-    content: "\ea44";
+  content: "\ea47";
 }
 
 .icon-stop::before {
-    content: "\ea45";
+  content: "\ea48";
 }
 
-.icon-volume2::before {
-    content: "\ea41";
+.icon-volumn::before {
+  content: "\ea49";
 }
 
 .icon-music-off::before {
-    content: "\ea47";
+  content: "\ea4a";
 }
 
 .icon-music::before {
-    content: "\ea48";
+  content: "\ea4b";
 }
 
 .icon-interactive-filled::before {
-    content: "\ea49";
+  content: "\ea4c";
 }
 
 .icon-interactive::before {
-    content: "\ea4a";
+  content: "\ea4d";
 }
 
 .icon-premium-filled::before {
-    content: "\ea4b";
+  content: "\ea4e";
 }
 
 .icon-premium::before {
-    content: "\ea4c";
+  content: "\ea4f";
 }
 
 .icon-add::before {
-    content: "\ea4d";
+  content: "\ea50";
 }
 
 .icon-double-chevron::before {
-    content: "\ea4e";
+  content: "\ea51";
 }
 
 .icon-group::before {
-    content: "\ea4f";
+  content: "\ea52";
 }
 
 .icon-money::before {
-    content: "\ea50";
+  content: "\ea53";
 }
