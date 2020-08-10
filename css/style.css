@@ -154,338 +154,347 @@ Generated using nucleoapp.com
 	icons
 -------------------------*/
 
+
 .icon-GIF::before {
   content: "\ea01";
 }
 
-.icon-ar::before {
+.icon-add::before {
   content: "\ea02";
 }
 
-.icon-back::before {
+.icon-ar::before {
   content: "\ea03";
 }
 
-.icon-calendar::before {
+.icon-arist-premium::before {
   content: "\ea04";
 }
 
-.icon-camera::before {
+.icon-back::before {
   content: "\ea05";
 }
 
-.icon-card::before {
+.icon-calendar::before {
   content: "\ea06";
 }
 
-.icon-center-align::before {
+.icon-camera::before {
   content: "\ea07";
 }
 
-.icon-challenge::before {
+.icon-card::before {
   content: "\ea08";
 }
 
-.icon-close::before {
-  content: "\ea19";
-}
-
-.icon-close2::before {
-  content: "\ea09";
-}
-
-.icon-colour::before {
+.icon-center-align::before {
   content: "\ea0a";
 }
 
-.icon-delete::before {
+.icon-challenge::before {
+  content: "\ea09";
+}
+
+.icon-close::before {
   content: "\ea0b";
 }
 
-.icon-edit-2::before {
+.icon-close2::before {
   content: "\ea0c";
 }
 
-.icon-edit::before {
+.icon-colour::before {
   content: "\ea0d";
 }
 
-.icon-edit2::before {
+.icon-delete::before {
   content: "\ea0e";
 }
 
-.icon-font::before {
+.icon-double-chevron::before {
   content: "\ea0f";
 }
 
-.icon-format::before {
+.icon-edit-2::before {
   content: "\ea10";
 }
 
-.icon-fullscreen::before {
+.icon-edit::before {
   content: "\ea11";
 }
 
-.icon-game::before {
+.icon-edit2::before {
   content: "\ea12";
 }
 
-.icon-game2::before {
+.icon-font::before {
   content: "\ea13";
 }
 
-.icon-gift::before {
+.icon-format::before {
   content: "\ea14";
 }
 
-.icon-history::before {
+.icon-fullscreen::before {
   content: "\ea15";
 }
 
-.icon-image::before {
+.icon-game::before {
   content: "\ea16";
 }
 
-.icon-left-align::before {
+.icon-game2::before {
   content: "\ea17";
 }
 
-.icon-left::before {
+.icon-gift::before {
   content: "\ea18";
 }
 
-.icon-leftSmall::before {
+.icon-group::before {
   content: "\ea19";
 }
 
-.icon-library::before {
+.icon-history::before {
   content: "\ea1a";
 }
 
-.icon-like-full::before {
+.icon-image::before {
   content: "\ea1b";
 }
 
-.icon-like::before {
+.icon-interactive-filled::before {
   content: "\ea1c";
 }
 
-.icon-location::before {
+.icon-interactive::before {
   content: "\ea1d";
 }
 
-.icon-lock::before {
+.icon-left-align::before {
   content: "\ea1e";
 }
 
-.icon-menu::before {
-  content: "\ea1f";
-}
-
-.icon-more::before {
+.icon-left::before {
   content: "\ea20";
 }
 
-.icon-mute::before {
+.icon-leftSmall::before {
+  content: "\ea1f";
+}
+
+.icon-library::before {
   content: "\ea21";
 }
 
-.icon-mute2::before {
+.icon-like-full::before {
   content: "\ea22";
 }
 
-.icon-note::before {
+.icon-like::before {
   content: "\ea23";
 }
 
-.icon-note1::before {
+.icon-location::before {
   content: "\ea24";
 }
 
-.icon-note2::before {
+.icon-lock::before {
   content: "\ea25";
 }
 
-.icon-ok::before {
+.icon-menu::before {
   content: "\ea26";
 }
 
-.icon-open::before {
+.icon-money::before {
   content: "\ea27";
 }
 
-.icon-package::before {
+.icon-more::before {
   content: "\ea28";
 }
 
-.icon-pause::before {
+.icon-music-off::before {
   content: "\ea29";
 }
 
-.icon-play::before {
+.icon-music::before {
   content: "\ea2a";
 }
 
-.icon-preview::before {
+.icon-mute::before {
   content: "\ea2b";
 }
 
-.icon-quote-filled::before {
+.icon-mute2::before {
   content: "\ea2c";
 }
 
-.icon-quote::before {
+.icon-note-bg-color::before {
   content: "\ea2d";
 }
 
-.icon-receipt::before {
+.icon-note::before {
   content: "\ea2e";
 }
 
-.icon-received::before {
+.icon-note1::before {
   content: "\ea2f";
 }
 
-.icon-refresh::before {
+.icon-note2::before {
   content: "\ea30";
 }
 
-.icon-reorder::before {
+.icon-ok::before {
   content: "\ea31";
 }
 
-.icon-replay::before {
-  content: "\ea33";
-}
-
-.icon-right-align::before {
+.icon-open::before {
   content: "\ea32";
 }
 
-.icon-right::before {
+.icon-package::before {
+  content: "\ea33";
+}
+
+.icon-pause::before {
   content: "\ea34";
 }
 
-.icon-rightSmall::before {
+.icon-play::before {
   content: "\ea35";
 }
 
-.icon-rotate-camera::before {
+.icon-premium-filled::before {
   content: "\ea36";
 }
 
-.icon-search::before {
+.icon-premium::before {
   content: "\ea37";
 }
 
-.icon-sent::before {
+.icon-preview::before {
   content: "\ea38";
 }
 
-.icon-sent2::before {
+.icon-quote-filled::before {
   content: "\ea39";
 }
 
-.icon-settings::before {
+.icon-quote::before {
   content: "\ea3a";
 }
 
-.icon-share::before {
+.icon-receipt::before {
   content: "\ea3b";
 }
 
-.icon-slide-show::before {
+.icon-received::before {
   content: "\ea3c";
 }
 
-.icon-title::before {
+.icon-refresh::before {
   content: "\ea3d";
 }
 
-.icon-toolbox::before {
+.icon-reorder::before {
   content: "\ea3e";
 }
 
-.icon-tools::before {
+.icon-replay::before {
   content: "\ea3f";
 }
 
-.icon-undo::before {
+.icon-right-align::before {
   content: "\ea40";
 }
 
-.icon-upload::before {
+.icon-right::before {
   content: "\ea41";
 }
 
-.icon-video-replay::before {
+.icon-rightSmall::before {
   content: "\ea42";
 }
 
-.icon-video::before {
+.icon-rotate-camera::before {
   content: "\ea43";
 }
 
-.icon-volumn2::before {
+.icon-search::before {
   content: "\ea44";
 }
 
-.icon-warning::before {
+.icon-sent::before {
   content: "\ea45";
 }
 
-.icon-window::before {
+.icon-sent2::before {
   content: "\ea46";
 }
 
-.icon-youtube::before {
+.icon-settings::before {
   content: "\ea47";
 }
 
-.icon-stop::before {
+.icon-share::before {
   content: "\ea48";
 }
 
-.icon-volumn::before {
+.icon-slide-show::before {
   content: "\ea49";
 }
 
-.icon-music-off::before {
+.icon-stop::before {
   content: "\ea4a";
 }
 
-.icon-music::before {
+.icon-title::before {
   content: "\ea4b";
 }
 
-.icon-interactive-filled::before {
+.icon-toolbox::before {
   content: "\ea4c";
 }
 
-.icon-interactive::before {
+.icon-tools::before {
   content: "\ea4d";
 }
 
-.icon-premium-filled::before {
+.icon-undo::before {
   content: "\ea4e";
 }
 
-.icon-premium::before {
+.icon-upload::before {
   content: "\ea4f";
 }
 
-.icon-add::before {
+.icon-video-replay::before {
   content: "\ea50";
 }
 
-.icon-double-chevron::before {
+.icon-video::before {
   content: "\ea51";
 }
 
-.icon-group::before {
+.icon-volume2::before {
   content: "\ea52";
 }
 
-.icon-money::before {
+.icon-volumn::before {
   content: "\ea53";
+}
+
+.icon-warning::before {
+  content: "\ea54";
+}
+
+.icon-window::before {
+  content: "\ea55";
+}
+
+.icon-youtube::before {
+  content: "\ea56";
 }
