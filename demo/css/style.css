@@ -63,7 +63,7 @@ header a:hover {
 ul {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
 }
 
 ul li {
@@ -127,24 +127,6 @@ ul input {
   outline: none;
 }
 
-h2{
-  font-size: 20px;
-  padding: 4px 32px;
-  font-weight: 600;
-}
-
-.section p{
-  padding: 4px;
-}
-
-.section{
-  margin-bottom: 64px;
-}
-
-.description{
-  padding: 4px 4px 4px 32px !important;
-}
-
 /* --------------------------------
 
 icons
@@ -163,3 +145,340 @@ icons
 /*------------------------
   font icons
 -------------------------*/
+
+.icon-GIF::before {
+    content: "\ea01";
+}
+
+.icon-add::before {
+    content: "\ea02";
+}
+
+.icon-ar::before {
+    content: "\ea03";
+}
+
+.icon-back::before {
+    content: "\ea04";
+}
+
+.icon-calendar::before {
+    content: "\ea05";
+}
+
+.icon-camera::before {
+    content: "\ea06";
+}
+
+.icon-card::before {
+    content: "\ea07";
+}
+
+.icon-center-align::before {
+    content: "\ea08";
+}
+
+.icon-challenge::before {
+    content: "\ea09";
+}
+
+.icon-close::before {
+    content: "\ea0a";
+}
+
+.icon-close2::before {
+    content: "\ea0b";
+}
+
+.icon-colour::before {
+    content: "\ea0c";
+}
+
+.icon-delete::before {
+    content: "\ea0d";
+}
+
+.icon-double-chevron::before {
+    content: "\ea0e";
+}
+
+.icon-edit-2::before {
+    content: "\ea0f";
+}
+
+.icon-edit::before {
+    content: "\ea10";
+}
+
+.icon-edit2::before {
+    content: "\ea11";
+}
+
+.icon-font::before {
+    content: "\ea12";
+}
+
+.icon-format::before {
+    content: "\ea13";
+}
+
+.icon-fullscreen::before {
+    content: "\ea14";
+}
+
+.icon-game::before {
+    content: "\ea15";
+}
+
+.icon-game2::before {
+    content: "\ea16";
+}
+
+.icon-gift::before {
+    content: "\ea17";
+}
+
+.icon-group::before {
+    content: "\ea18";
+}
+
+.icon-history::before {
+    content: "\ea19";
+}
+
+.icon-image::before {
+    content: "\ea1a";
+}
+
+.icon-interactive-filled::before {
+    content: "\ea1b";
+}
+
+.icon-interactive::before {
+    content: "\ea1c";
+}
+
+.icon-left-align::before {
+    content: "\ea1d";
+}
+
+.icon-left::before {
+    content: "\ea1e";
+}
+
+.icon-leftSmall::before {
+    content: "\ea1f";
+}
+
+.icon-library::before {
+    content: "\ea20";
+}
+
+.icon-like-full::before {
+    content: "\ea21";
+}
+
+.icon-like::before {
+    content: "\ea22";
+}
+
+.icon-location::before {
+    content: "\ea23";
+}
+
+.icon-lock::before {
+    content: "\ea24";
+}
+
+.icon-menu::before {
+    content: "\ea25";
+}
+
+.icon-money::before {
+    content: "\ea26";
+}
+
+.icon-more::before {
+    content: "\ea27";
+}
+
+.icon-music-off::before {
+    content: "\ea28";
+}
+
+.icon-music::before {
+    content: "\ea29";
+}
+
+.icon-mute::before {
+    content: "\ea2a";
+}
+
+.icon-mute2::before {
+    content: "\ea2b";
+}
+
+.icon-note::before {
+    content: "\ea2c";
+}
+
+.icon-note1::before {
+    content: "\ea2d";
+}
+
+.icon-note2::before {
+    content: "\ea2e";
+}
+
+.icon-ok::before {
+    content: "\ea2f";
+}
+
+.icon-open::before {
+    content: "\ea30";
+}
+
+.icon-package::before {
+    content: "\ea31";
+}
+
+.icon-pause::before {
+    content: "\ea32";
+}
+
+.icon-play::before {
+    content: "\ea33";
+}
+
+.icon-premium-filled::before {
+    content: "\ea34";
+}
+
+.icon-premium::before {
+    content: "\ea35";
+}
+
+.icon-preview::before {
+    content: "\ea36";
+}
+
+.icon-quote-filled::before {
+    content: "\ea37";
+}
+
+.icon-quote::before {
+    content: "\ea38";
+}
+
+.icon-receipt::before {
+    content: "\ea39";
+}
+
+.icon-received::before {
+    content: "\ea3a";
+}
+
+.icon-refresh::before {
+    content: "\ea3b";
+}
+
+.icon-reorder::before {
+    content: "\ea3c";
+}
+
+.icon-replay::before {
+    content: "\ea3d";
+}
+
+.icon-right-align::before {
+    content: "\ea3e";
+}
+
+.icon-right::before {
+    content: "\ea3f";
+}
+
+.icon-rightSmall::before {
+    content: "\ea40";
+}
+
+.icon-rotate-camera::before {
+    content: "\ea41";
+}
+
+.icon-search::before {
+    content: "\ea42";
+}
+
+.icon-sent::before {
+    content: "\ea43";
+}
+
+.icon-sent2::before {
+    content: "\ea44";
+}
+
+.icon-settings::before {
+    content: "\ea45";
+}
+
+.icon-share::before {
+    content: "\ea46";
+}
+
+.icon-slide-show::before {
+    content: "\ea47";
+}
+
+.icon-stop::before {
+    content: "\ea48";
+}
+
+.icon-title::before {
+    content: "\ea49";
+}
+
+.icon-toolbox::before {
+    content: "\ea4a";
+}
+
+.icon-tools::before {
+    content: "\ea4b";
+}
+
+.icon-undo::before {
+    content: "\ea4c";
+}
+
+.icon-upload::before {
+    content: "\ea4d";
+}
+
+.icon-video-replay::before {
+    content: "\ea4e";
+}
+
+.icon-video::before {
+    content: "\ea4f";
+}
+
+.icon-volume2::before {
+    content: "\ea50";
+}
+
+.icon-volumn::before {
+    content: "\ea51";
+}
+
+.icon-warning::before {
+    content: "\ea52";
+}
+
+.icon-window::before {
+    content: "\ea53";
+}
+
+.icon-youtube::before {
+    content: "\ea54";
+}
+
