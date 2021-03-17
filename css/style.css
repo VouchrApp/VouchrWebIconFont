@@ -207,11 +207,11 @@ Generated using nucleoapp.com
 }
 
 .icon-double-chevron::before {
-  content: "\ea0e";
+  content: "\ea0f";
 }
 
 .icon-edit-2::before {
-  content: "\ea0f";
+  content: "\ea0e";
 }
 
 .icon-edit::before {
@@ -500,5 +500,9 @@ Generated using nucleoapp.com
 
 .icon-youtube::before {
   content: "\ea57";
+}
+
+.icon-youtube::before {
+  content: "\ea56";
 }
 
