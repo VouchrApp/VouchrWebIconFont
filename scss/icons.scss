@@ -8,27 +8,27 @@
 $icon-GIF: unicode(ea01);
 $icon-add: unicode(ea02);
 $icon-ar: unicode(ea03);
-$icon-back: unicode(ea05);
-$icon-calendar: unicode(ea04);
-$icon-camera: unicode(ea07);
-$icon-card: unicode(ea06);
-$icon-center-align: unicode(ea0a);
-$icon-challenge: unicode(ea08);
-$icon-close: unicode(ea09);
+$icon-back: unicode(ea04);
+$icon-calendar: unicode(ea05);
+$icon-camera: unicode(ea06);
+$icon-card: unicode(ea07);
+$icon-center-align: unicode(ea08);
+$icon-challenge: unicode(ea09);
+$icon-close: unicode(ea0a);
 $icon-close2: unicode(ea0b);
 $icon-colour: unicode(ea0c);
 $icon-delete: unicode(ea0d);
-$icon-double-chevron: unicode(ea0f);
-$icon-edit-2: unicode(ea0e);
+$icon-double-chevron: unicode(ea0e);
+$icon-edit-2: unicode(ea0f);
 $icon-edit: unicode(ea10);
 $icon-edit2: unicode(ea11);
 $icon-exclusive-crown: unicode(ea12);
 $icon-font: unicode(ea13);
 $icon-format: unicode(ea14);
 $icon-fullscreen: unicode(ea15);
-$icon-game: unicode(ea17);
-$icon-game2: unicode(ea18);
-$icon-gift: unicode(ea16);
+$icon-game: unicode(ea16);
+$icon-game2: unicode(ea17);
+$icon-gift: unicode(ea18);
 $icon-group: unicode(ea19);
 $icon-history: unicode(ea1a);
 $icon-image: unicode(ea1b);
@@ -87,11 +87,12 @@ $icon-undo: unicode(ea4f);
 $icon-upload: unicode(ea50);
 $icon-video-replay: unicode(ea51);
 $icon-video: unicode(ea52);
-$icon-volume2: unicode(ea54);
-$icon-volumn: unicode(ea53);
-$icon-warning: unicode(ea55);
-$icon-window: unicode(ea56);
-$icon-youtube: unicode(ea57);
+$icon-volume2: unicode(ea53);
+$icon-volumn: unicode(ea54);
+$icon-warning: unicode(ea56);
+$icon-widget: unicode(ea55);
+$icon-window: unicode(ea57);
+$icon-youtube: unicode(ea58);
 
 .icon-GIF::before {
   content: $icon-GIF;
@@ -431,6 +432,10 @@ $icon-youtube: unicode(ea57);
 
 .icon-warning::before {
   content: $icon-warning;
+}
+
+.icon-widget::before {
+  content: $icon-widget;
 }
 
 .icon-window::before {

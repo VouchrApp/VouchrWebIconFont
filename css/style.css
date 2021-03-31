@@ -167,31 +167,31 @@ Generated using nucleoapp.com
 }
 
 .icon-back::before {
-  content: "\ea05";
-}
-
-.icon-calendar::before {
   content: "\ea04";
 }
 
-.icon-camera::before {
-  content: "\ea07";
+.icon-calendar::before {
+  content: "\ea05";
 }
 
-.icon-card::before {
+.icon-camera::before {
   content: "\ea06";
 }
 
-.icon-center-align::before {
-  content: "\ea0a";
+.icon-card::before {
+  content: "\ea07";
 }
 
-.icon-challenge::before {
+.icon-center-align::before {
   content: "\ea08";
 }
 
-.icon-close::before {
+.icon-challenge::before {
   content: "\ea09";
+}
+
+.icon-close::before {
+  content: "\ea0a";
 }
 
 .icon-close2::before {
@@ -207,11 +207,11 @@ Generated using nucleoapp.com
 }
 
 .icon-double-chevron::before {
-  content: "\ea0f";
+  content: "\ea0e";
 }
 
 .icon-edit-2::before {
-  content: "\ea0e";
+  content: "\ea0f";
 }
 
 .icon-edit::before {
@@ -239,15 +239,15 @@ Generated using nucleoapp.com
 }
 
 .icon-game::before {
-  content: "\ea17";
+  content: "\ea16";
 }
 
 .icon-game2::before {
-  content: "\ea18";
+  content: "\ea17";
 }
 
 .icon-gift::before {
-  content: "\ea16";
+  content: "\ea18";
 }
 
 .icon-group::before {
@@ -483,26 +483,26 @@ Generated using nucleoapp.com
 }
 
 .icon-volume2::before {
-  content: "\ea54";
-}
-
-.icon-volumn::before {
   content: "\ea53";
 }
 
+.icon-volumn::before {
+  content: "\ea54";
+}
+
 .icon-warning::before {
+  content: "\ea56";
+}
+
+.icon-widget::before {
   content: "\ea55";
 }
 
 .icon-window::before {
-  content: "\ea56";
-}
-
-.icon-youtube::before {
   content: "\ea57";
 }
 
 .icon-youtube::before {
-  content: "\ea56";
+  content: "\ea58";
 }
 
