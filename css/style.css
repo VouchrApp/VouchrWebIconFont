@@ -159,39 +159,39 @@ Generated using nucleoapp.com
 }
 
 .icon-add::before {
-  content: "\ea02";
-}
-
-.icon-ar::before {
   content: "\ea03";
 }
 
-.icon-back::before {
-  content: "\ea05";
+.icon-ar::before {
+  content: "\ea02";
 }
 
-.icon-calendar::before {
+.icon-back::before {
   content: "\ea04";
 }
 
-.icon-camera::before {
-  content: "\ea07";
+.icon-calendar::before {
+  content: "\ea05";
 }
 
-.icon-card::before {
+.icon-camera::before {
   content: "\ea06";
 }
 
-.icon-center-align::before {
-  content: "\ea0a";
+.icon-card::before {
+  content: "\ea07";
 }
 
-.icon-challenge::before {
+.icon-center-align::before {
   content: "\ea08";
 }
 
-.icon-close::before {
+.icon-challenge::before {
   content: "\ea09";
+}
+
+.icon-close::before {
+  content: "\ea0a";
 }
 
 .icon-close2::before {
@@ -207,11 +207,11 @@ Generated using nucleoapp.com
 }
 
 .icon-double-chevron::before {
-  content: "\ea0f";
+  content: "\ea0e";
 }
 
 .icon-edit-2::before {
-  content: "\ea0e";
+  content: "\ea0f";
 }
 
 .icon-edit::before {
@@ -239,15 +239,15 @@ Generated using nucleoapp.com
 }
 
 .icon-game::before {
-  content: "\ea17";
+  content: "\ea16";
 }
 
 .icon-game2::before {
-  content: "\ea18";
+  content: "\ea17";
 }
 
 .icon-gift::before {
-  content: "\ea16";
+  content: "\ea18";
 }
 
 .icon-group::before {
@@ -255,19 +255,19 @@ Generated using nucleoapp.com
 }
 
 .icon-history::before {
-  content: "\ea1a";
-}
-
-.icon-image::before {
   content: "\ea1b";
 }
 
+.icon-image::before {
+  content: "\ea1d";
+}
+
 .icon-interactive-filled::before {
-  content: "\ea1c";
+  content: "\ea1a";
 }
 
 .icon-interactive::before {
-  content: "\ea1d";
+  content: "\ea1c";
 }
 
 .icon-left-align::before {
@@ -294,192 +294,196 @@ Generated using nucleoapp.com
   content: "\ea23";
 }
 
-.icon-location::before {
+.icon-link::before {
   content: "\ea24";
 }
 
-.icon-lock::before {
+.icon-location::before {
   content: "\ea25";
 }
 
-.icon-mail::before {
+.icon-lock::before {
   content: "\ea26";
 }
 
-.icon-menu::before {
+.icon-mail::before {
   content: "\ea27";
 }
 
-.icon-money::before {
+.icon-menu::before {
   content: "\ea28";
 }
 
-.icon-more::before {
+.icon-money::before {
   content: "\ea29";
 }
 
-.icon-music-off::before {
+.icon-more::before {
   content: "\ea2a";
 }
 
-.icon-music::before {
+.icon-music-off::before {
   content: "\ea2b";
 }
 
-.icon-mute::before {
+.icon-music::before {
   content: "\ea2c";
 }
 
-.icon-mute2::before {
+.icon-mute::before {
   content: "\ea2d";
 }
 
-.icon-note-bg-color::before {
+.icon-mute2::before {
   content: "\ea2e";
 }
 
-.icon-note::before {
+.icon-note-bg-color::before {
   content: "\ea2f";
 }
 
-.icon-note1::before {
+.icon-note::before {
   content: "\ea30";
 }
 
-.icon-note2::before {
+.icon-note1::before {
   content: "\ea31";
 }
 
-.icon-ok::before {
+.icon-note2::before {
   content: "\ea32";
 }
 
-.icon-open::before {
+.icon-ok::before {
   content: "\ea33";
 }
 
-.icon-package::before {
+.icon-open::before {
   content: "\ea34";
 }
 
-.icon-pause::before {
+.icon-package::before {
   content: "\ea35";
 }
 
-.icon-play::before {
+.icon-pause::before {
   content: "\ea36";
 }
 
-.icon-premium-filled::before {
+.icon-play::before {
   content: "\ea37";
 }
 
-.icon-premium::before {
+.icon-premium-filled::before {
   content: "\ea38";
 }
 
-.icon-preview::before {
+.icon-premium::before {
   content: "\ea39";
 }
 
-.icon-quote-filled::before {
+.icon-preview::before {
   content: "\ea3a";
 }
 
-.icon-quote::before {
+.icon-quote-filled::before {
   content: "\ea3b";
 }
 
-.icon-receipt::before {
+.icon-quote::before {
   content: "\ea3c";
 }
 
-.icon-received::before {
+.icon-receipt::before {
   content: "\ea3d";
 }
 
-.icon-refresh::before {
+.icon-received::before {
   content: "\ea3e";
 }
 
-.icon-reorder::before {
+.icon-refresh::before {
   content: "\ea3f";
 }
 
-.icon-replay::before {
+.icon-reorder::before {
   content: "\ea40";
 }
 
-.icon-right-align::before {
+.icon-replay::before {
   content: "\ea41";
 }
 
-.icon-right::before {
+.icon-right-align::before {
   content: "\ea42";
 }
 
-.icon-rightSmall::before {
+.icon-right::before {
   content: "\ea43";
 }
 
-.icon-rotate-camera::before {
+.icon-rightSmall::before {
   content: "\ea44";
 }
 
-.icon-search::before {
+.icon-rotate-camera::before {
   content: "\ea45";
 }
 
-.icon-sent::before {
+.icon-search::before {
   content: "\ea46";
 }
 
-.icon-sent2::before {
+.icon-sent::before {
   content: "\ea47";
 }
 
-.icon-settings::before {
+.icon-sent2::before {
   content: "\ea48";
 }
 
-.icon-share::before {
+.icon-settings::before {
   content: "\ea49";
 }
 
-.icon-slide-show::before {
+.icon-share::before {
   content: "\ea4a";
 }
 
-.icon-stop::before {
+.icon-slide-show::before {
   content: "\ea4b";
 }
 
-.icon-title::before {
+.icon-stop::before {
   content: "\ea4c";
 }
 
-.icon-toolbox::before {
+.icon-title::before {
   content: "\ea4d";
 }
 
-.icon-tools::before {
+.icon-toolbox::before {
   content: "\ea4e";
 }
 
-.icon-undo::before {
+.icon-tools::before {
   content: "\ea4f";
 }
 
-.icon-upload::before {
+.icon-undo::before {
   content: "\ea50";
 }
 
-.icon-video-replay::before {
+.icon-upload::before {
   content: "\ea51";
 }
 
-.icon-video::before {
+.icon-video-replay::before {
   content: "\ea52";
+}
+
+.icon-video::before {
+  content: "\ea53";
 }
 
 .icon-volume2::before {
@@ -487,22 +491,22 @@ Generated using nucleoapp.com
 }
 
 .icon-volumn::before {
-  content: "\ea53";
-}
-
-.icon-warning::before {
   content: "\ea55";
 }
 
-.icon-window::before {
+.icon-warning::before {
   content: "\ea56";
 }
 
-.icon-youtube::before {
+.icon-widget::before {
   content: "\ea57";
 }
 
+.icon-window::before {
+  content: "\ea58";
+}
+
 .icon-youtube::before {
-  content: "\ea56";
+  content: "\ea59";
 }
 
